@@ -1,2 +1,2 @@
-# Virtual-Classroom
+# Blackboard
 Teaching tool to assist each and every student to learn in an interactive manner in today’s situation of a pandemic
